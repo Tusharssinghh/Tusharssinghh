@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tusharssinghh
 - 👀 I’m interested in Core Web Devlopment
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Backend in Go language.
 - 💞️ I’m looking to collaborate with MNC's and Startup's
   
 

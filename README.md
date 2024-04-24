@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tusharsinghmodi@gmail.com**
 
-- ⚡ Fun fact - **I wonder why javascript framework go to therapy, maybe it had too many dependency issues🥲🤷‍♂️**
+- ⚡ Fun fact - **Why javascirpt developer always so calm, becuease they handled all his "promises"😁🤷‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

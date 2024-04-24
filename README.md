@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tusharsinghmodi@gmail.com**
 
-- ⚡ Fun fact **I think i can't rest while working on Rest API**
+- ⚡ Fun fact - **I wonder why javascript framework go to therapy, maybe it had too many dependency issues🥲🤷‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

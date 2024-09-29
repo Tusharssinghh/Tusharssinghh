@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tusharssinghh](https://github.com/Tusharssinghh)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Reactjs, Nodejs, Express, Git, Github**
 
 - 📫 How to reach me **tusharsinghmodi@gmail.com**
 

@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tusharsinghmodi@gmail.com**
 
-- ⚡ Fun fact - **Why javascirpt developer always so calm, becuease they handled all his "promises"😁🤷‍♂️**
+- ⚡ Fun fact - **Why javascirpt developer always so calm, becuease they handled all their "promises"😁🤷‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

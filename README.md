@@ -4,7 +4,7 @@
 <img src = "https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" align = "right" width = "400px" alt = "coding student">
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [linkedIn](www.linkedin.com/in/tusharsingh1998)
+- 👯 I’m looking to collaborate on [linkedIn](https://www.linkedin.com/in/tusharsingh1998/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tusharssinghh](https://github.com/Tusharssinghh)
 

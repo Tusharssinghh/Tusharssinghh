@@ -1,4 +1,4 @@
-![logo](https://github.com/Tusharssinghh/Tusharssinghh/blob/main/FRONTEND%20DEVELOPER%20(1).png)
+![logo](https://github.com/Tusharssinghh/Tusharssinghh/blob/main/FRONTEND%20DEVELOPER%20.jpg)
 <h1 align="center">Hello 👋, I'm Tushar</h1>
 <h3 align="center">A passionate Web developer from ghaziabad, India</h3>
 <img src = "https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" align = "right" width = "400px" alt = "coding student">

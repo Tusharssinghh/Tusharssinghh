@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tusharssinghh](https://github.com/Tusharssinghh)
 
-- Also worked as a Freelancer, project live on domain [https://medullacaredialysis.com/]
+- Also worked as a **Freelancer**, project live on domain **[https://medullacaredialysis.com/]**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Reactjs, Nodejs, Express, Git, Github**
 
